@@ -32,6 +32,11 @@ I'm [Abd-Elrahman Elsayed](https://verma-anushka.github.io/anushkaverma/), I'm a
   <img src="https://github-readme-stats.vercel.app/api?username=Abd-Elrahman-Elsayed&hide=stars&show_icons=true&theme=dracula&line_height=32">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-Elrahman-Elsayed&langs_count=8&theme=dracula">
+</p>
+
+
 ---
 
 <p align="center">
